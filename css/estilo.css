@@ -170,6 +170,9 @@ ul li .circulo-redes a i{
 	font-size: 16px !important;
 	border-bottom: 1px #fff solid !important;
 	}
+	.somos p{
+	    width: 80% !important;
+	}
 
 }
 
@@ -186,6 +189,9 @@ ul li .circulo-redes a i{
 	.navbar-nav li a{
 	font-size: 16px !important;
 	border-bottom: 1px #fff solid !important;
+	}
+	.somos p{
+	    width: 80% !important;
 	}
 }
 
